@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navneetbz
 - 👀 I’m interested in all things web dev
-- 🌱 I’m currently learning solid.js
+- 🌱 I’m currently learning rust
 - 📫 How to reach me navneetsingh969@gmail.com
 
 <!---
